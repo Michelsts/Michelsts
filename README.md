@@ -1,4 +1,4 @@
-## Olá! Eu sou a Michel Santos, estudante ADS e futuro DEV.
+## Olá! Sou Michel Santos, estudante de ADS e futuro DEV.
 <div align="center">
   <a href="https://github.com/michelsts">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michelsts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
